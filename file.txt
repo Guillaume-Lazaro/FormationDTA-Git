@@ -5,4 +5,4 @@ Conflit!!
 Stash stash
 Modif depuis GitHub
 Modif Rebase 2
-Conflit depuis local
+Conflit de puis GitHub!!

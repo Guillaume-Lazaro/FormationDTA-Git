@@ -4,3 +4,4 @@ Blabla
 Conflit!!
 Stash stash
 Modif depuis GitHub
+Modif Rebase

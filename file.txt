@@ -2,7 +2,7 @@ Je suis le premier!!!
 En fait non…
 Blabla
 Conflit!!
-Stash stash
+Kouroukoukou roukoukou Stash stash
 Modif depuis GitHub
 Modif Rebase 2
 Conflit de puis GitHub!!

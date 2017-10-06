@@ -8,3 +8,5 @@ Modif Rebase 2
 Conflit depuis GitHub!!
 
 Test de pull-request depuis GitKraken
+Test n°2 de pull-request depuis GitKraken
+(parceque le premier a fonctionné sans problème)

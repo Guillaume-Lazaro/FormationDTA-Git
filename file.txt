@@ -10,3 +10,4 @@ Conflit depuis GitHub!!
 Test de pull-request depuis GitKraken
 Test n°2 de pull-request depuis GitKraken
 (parceque le premier a fonctionné sans problème)
+ça ne marche toujours pas mais là je suis sur la branche request

@@ -5,4 +5,6 @@ Conflit!!
 Kouroukoukou roukoukou Stash stash
 Modif depuis GitHub
 Modif Rebase 2
-Conflit de puis GitHub!!
+Conflit depuis GitHub!!
+
+Test de pull-request depuis GitKraken

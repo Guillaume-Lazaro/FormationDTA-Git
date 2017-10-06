@@ -1,7 +1,8 @@
+(This repository is for the DTA formation to Git and GitHub, it's for testing features and things like that)
+
 # Formation DTA ingénierie : Git
 
 ![txte alternatif](https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png)
-Ce repository sert à la formation à Git et GitHub
 
 ### Les principales commandes
 

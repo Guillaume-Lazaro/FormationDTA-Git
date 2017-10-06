@@ -4,8 +4,11 @@
 
 ![txte alternatif](https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png)
 
-### Les principales commandes
+### Historique
 
+Git est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux,  en 2005 et distribué selon les termes de la licence publique générale GNU version 2. En 2016, il s’agit du logiciel de gestion de versions le plus populaire qui est utilisé par plus de douze millions de personnes.
+
+### Les principales commandes
 
 ```
 git init *nom du repository*    #Crée un repository avec le nom en paramétre
